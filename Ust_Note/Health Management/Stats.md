@@ -1,4 +1,0 @@
-- Height: 175cm
-- Weight: 60kg
-- BMR Formula: Revised Harris-Benedict
-- ![[Pasted image 20250815012903.png]]
