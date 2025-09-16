@@ -1,0 +1,2 @@
+- True or False: 
+	- When given the chance, most students in our class avoided learning how their decisions would affect the earnings of another student. (Moral Wiggle Room?)
