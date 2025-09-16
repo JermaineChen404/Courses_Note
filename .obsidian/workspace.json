@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "1e66c2aa87b639fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f173eb734856ad4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f77cf39673c55f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ust_Note/README.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "653256fff9232c15",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e456999688f1051",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28339a817acc63df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2d3582ec353a26ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ef99d9156b9c077a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ffd435edec8af7c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b5ad1e20155eff0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3981450dbd2e91dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "accfc458e397d086",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "31ca91607fa9858d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ad5bdd125352d529",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ust_Note/Debug info.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Debug info"
+            }
+          },
+          {
+            "id": "561b70f17dc3f546",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          },
+          {
+            "id": "0ef7ac6fa470696a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian42-brat:BRAT": false,
+      "jupyter:Start Jupyter Server": false,
+      "jupyter:Create Jupyter Notebook": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0f77cf39673c55f8",
+  "lastOpenFiles": [
+    "Ust_Note/test.md",
+    "Ust_Note/README.md",
+    "Ust_Note/Ust_Note",
+    "Ust_Note/Debug info.md",
+    "Ust_Note/Ust_Note_backup",
+    "Github_sync/Debug info.md",
+    "Github_sync/test/test.md",
+    "Github_sync/test",
+    "Ust_Note/Ust_Note_backup/test.md",
+    "Ust_Note/test/test.md",
+    "Ust_Note/Untitled",
+    "Github_sync/yr1_spring/MGMT2010/test_prep_Q&A.md",
+    "Github_sync/yr1_spring/MGMT2010",
+    "Github_sync/yr1_spring/MATH1014/Power Series.md",
+    "Github_sync/yr1_spring/MATH1014",
+    "Github_sync/Market News/Sep 9th.md",
+    "Github_sync/Market News/Sep 8th.md",
+    "Github_sync/Market News/Sep 4th.md",
+    "Github_sync/Market News/Sep 3rd.md",
+    "Github_sync/Market News/Sep 11th.md",
+    "Github_sync/Market News/Sep 10th.md",
+    "Github_sync/Market News",
+    "Github_sync/yr2_Fall/MRKT2120/attachments/Pasted image 20250909172606.png",
+    "Github_sync/yr2_Fall/MRKT2120/attachments/Pasted image 20250908212253.png",
+    "Github_sync/yr2_Fall/MRKT2120/attachments/Pasted image 20250908213835.png",
+    "Github_sync/yr2_Fall/MGMT2110/attachments/Pasted image 20250910013937.png",
+    "Github_sync/yr2_Fall/FINA3303/attachments/Pasted image 20250912122854.png",
+    "Github_sync/yr2_Fall/FINA3303/attachments/Pasted image 20250912123127.png",
+    "Github_sync/yr2_Fall/FINA3303/attachments/Pasted image 20250912125435.png",
+    "Github_sync/yr2_Fall/MGMT2110/attachments/Pasted image 20250910013022.png",
+    "Github_sync/yr2_Fall/MGMT2110/attachments/Pasted image 20250910012937.png",
+    "Github_sync/yr2_Fall/FINA3203/attachments/Pasted image 20250915150042.png",
+    "Github_sync/yr2_Fall/MRKT2120/L2 - Marketing Process.md",
+    "Github_sync/yr2_Fall/MRKT2120/L3 - Company and Marketing strategy.md",
+    "Github_sync/yr2_Fall/MRKT2120/attachments",
+    "Github_sync/yr2_Fall/MGMT2110/L4 - Personality and Individual Differences.md",
+    "Github_sync/yr2_Fall/MGMT2110/Syllabus.md",
+    "Github_sync/yr2_Fall/MGMT2110/L2 - What is Organizational Behavior.md",
+    "Github_sync/yr2_Fall/MGMT2110/attachments",
+    "Github_sync/yr2_Fall/FINA3203/L2 - Forward and Futures contracts.md",
+    "Github_sync/yr2_Fall/FINA3203/L1 - Intro to Derivatives.md",
+    "Github_sync/yr2_Fall/FINA3303/Capital Structure.md",
+    "Github_sync/yr2_Fall/FINA3303/attachments",
+    "Github_sync/yr2_Fall/ECON2123/Ch1&2 - Overview.md",
+    "Github_sync/yr2_Fall/FINA3103/Trading Securities.md",
+    "Untitled.canvas"
+  ]
+}
