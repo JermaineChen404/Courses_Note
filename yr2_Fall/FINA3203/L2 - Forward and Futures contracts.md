@@ -42,7 +42,44 @@ Why will the buyer agree on the forward price $F_{0,T}$ in the previous example?
 i.e.
 $$F_{0,T}=S_{0}\times e^{r_{0}T}$$
 ---
-Another way to consider the forward price is by **replicating portfolio**
+> Another way to consider the forward price is by **replicating portfolio**
+
+There are three products in the market at time 0
+- a forward contract with ==market forward price $F_{0,T}$== 
+-  the underlying with ==current market price $S_{0}$==
+- zero-coupon bonds with ==interest rate $r_{0}$==
+
+We can construct two portfolios
+- Portfolio 1: enter a long position of a forward contract
+
+|Portfolio holdings | Payoffs at time 0 | Payoffs at time T|
+|---|---|---|
+| Long forward|0|$N_{0}\times(S_{T}-F_{0,T})$|
+
+- Portfolio 2: 
+	- long the underlying
+		- buy the underlying at time 0 and sell it at time T
+	- short bonds (borrow money)
+		- receive proceeds at time 0 and repay it at time T
+
+| | Portfolio holdings | Payoffs at time 0 | Payoffs at time T|
+|---|---|---|---|
+|Portfolio 2| Long underlying|$-N_{0}\times S_{0}$|$N_{0}\times S_{T}$|
+||Short bonds|$N_{0}\times F_{0,T}\times e^{-r_{0}\times T}$|$-N_{0}\times(S_{T}-F_{0,T})$
+||Total|$N_{0}\times(F_{0,T}\times e^{-r_{0}\times T}-S_{0})$|$N_{0}\times(S_{T}-F_{0,T})$
+
+Two portfolios have the same payoffs at time T,
+
+- if $F_{0,T}>S_{0}\times e^{r_{0}\times T}$
+	- The forward is overpriced
+		- short portfolio 1 and long portfolio 2
+- if $F_{0,T}<S_{0}\times e^{r_{0}\times T}$
+	- The forward is underpriced
+		- long portfolio 1 and short portfolio 2
+
+according to the no arbitrage principle, they must have the same payoffs at time 0
+
+i.e., $F_{0,T}\times e^{-r_{0}\times T}-S_{0}=0 \iff F_{0,T}=S_{0}\times e^{r_{0}\times T}$
 
 
 ### Interest Rate
