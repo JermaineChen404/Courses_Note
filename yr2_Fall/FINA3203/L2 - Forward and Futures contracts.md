@@ -82,7 +82,9 @@ according to the no arbitrage principle, they must have the same payoffs at time
 i.e., $F_{0,T}\times e^{-r_{0}\times T}-S_{0}=0 \iff F_{0,T}=S_{0}\times e^{r_{0}\times T}$
 
 
-### Interest Rate
+
+# Appendix
+## Interest Rate
 - Simple interest rate $r_{0}^S$
 	- $r_{0}^S=\frac{1}{T}\left( \frac{FV}{S}-1 \right)$
 	- $FV=S(1+r_{0}^ST)$
@@ -90,14 +92,6 @@ i.e., $F_{0,T}\times e^{-r_{0}\times T}-S_{0}=0 \iff F_{0,T}=S_{0}\times e^{r_{0
 	- $r_{0}=\frac{1}{T}\left( \ln \frac{FV}{S_{0}} \right)$
 	- $FV=Se^{r_{0}T}$
 	- $S=FVe^{-r_{0}T}$
-
-
-
-
-
-
-
-
 
 ## Log-Return
 [Log-return](https://gregorygundersen.com/blog/2022/02/06/log-returns/) are defined as
