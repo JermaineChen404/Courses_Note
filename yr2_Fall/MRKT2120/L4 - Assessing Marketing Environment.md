@@ -19,4 +19,6 @@
 flowchart LR
 SAAP --> SAAS
 ```
- 
+## Political-Social
+
+## Culture

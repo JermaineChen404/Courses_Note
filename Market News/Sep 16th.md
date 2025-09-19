@@ -1,6 +1,5 @@
-## US, China have framework for TikTok deal where Oracle will play a key role
-> [!tips]+ Takeaway
-> AI optimism continues
-
-> [!tip]- News
-> 
+- Judges blocked the White House from [ousting Fed Governor Lisa Cook](https://www.bloomberg.com/news/articles/2025-09-16/trump-can-t-fire-cook-before-fed-meeting-appeals-court-rules?sref=rvrmfDby "Link") for now, allowing her to vote at this week’s rate-setting meeting. Trump adviser Stephen Miran will be there too: He won [confirmation to a seat on the Fed board](https://www.bloomberg.com/news/articles/2025-09-15/stephen-miran-nears-fed-post-confirmation-after-key-senate-vote?sref=rvrmfDby "Link").
+- The relentless advance in technology shares is set to drive the Nasdaq 100 to [a 10th straight day of gains](https://www.bloomberg.com/news/articles/2025-09-15/asian-futures-show-cautious-optimism-ahead-of-fed-markets-wrap), just as the Fed prepares a new cycle of rate cuts. Gold closed in on $3,700 an ounce and the euro edged toward its [strongest level in four years](https://www.bloomberg.com/news/articles/2025-09-16/euro-heads-for-highest-in-four-years-with-1-20-level-in-sight).
+- Wall Street’s regulator said it is “prioritizing” Donald Trump’s proposal to [reduce the frequency of corporate earnings reports](https://www.bloomberg.com/news/articles/2025-09-15/trump-says-companies-should-report-earnings-every-six-months), after he again stepped into a long-running debate over transparency in capitalism.
+- Trump filed a [$15 billion defamation and libel lawsuit](https://www.bloomberg.com/news/articles/2025-09-16/trump-says-he-s-bringing-15b-lawsuit-against-new-york-times-mfm13v04) against the New York Times, accusing the paper of serving as a “mouthpiece” for Democrats and pitting himself against one of the world’s most prominent news organizations. New York Times shares are falling 1% in premarket trading.
+- Investor [confidence in Germany’s economic prospects](https://www.bloomberg.com/news/articles/2025-09-16/german-investor-mood-unexpectedly-brightens-on-export-hopes?sref=rvrmfDby) unexpectedly improved in September, supporting hopes that Europe’s largest economy is leaving behind a prolonged downturn.
