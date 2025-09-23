@@ -21,7 +21,7 @@ $$\sum \frac{FCF_{n}}{(1+R_{wacc})^n}$$
 
 ## Case I
 ### Assumption
-[[Ust_Note/yr2_Fall/FINA3303/Capital Structure#Perfect Capital Market|Perfect capital market]]
+[[C1 - Capital Structure#Perfect Capital Market|Perfect capital market]]
 - No corporate or personal taxes
 - No bankruptcy costs
 

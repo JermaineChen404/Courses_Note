@@ -109,12 +109,16 @@ $$Y=\frac{1}{1-c_{0}}(c_{0}+\bar{I}+G-c_{1}T)$$
 ```mermaid
 flowchart LR
 Demand --> Production
-Production --> |equivalent|Income
+Production <--> |equivalent|Income
 Income--> Consumption
 Consumption --> Demand
 ```
 ### Graph
-
+![[Pasted image 20250919151840.png]]
+![[Pasted image 20250919153705.png]]
+Given that
+$$Z=(c_{0}+\bar{I}+G-c_{1}T)+c_{1}Y$$
+$$1+c_{1}+c_{1}^2+c_{1}^3+\dots=\frac{1}{1-c_{1}}$$
 ### Words
 
 
@@ -130,6 +134,9 @@ Consumption --> Demand
 - Behavioral equations
 - Equilibrium conditions
 ## Macroeconomists' Tools
-1. Algebra to make sure the logic is correct
-2. Graphs to build the intuition
-3. Words to explain the results
+1. Algebra
+	- make sure the logic is correct
+2. Graphs
+	- build the intuition
+3. Words
+	- explain the results
