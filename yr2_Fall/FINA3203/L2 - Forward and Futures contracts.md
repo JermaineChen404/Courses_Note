@@ -1,4 +1,4 @@
-## Forward contracts
+# Forward contracts
 > [!Definition] Forward price $F_{0,T}$:
 > the price set to ensure that the value of the forward contract equals zero for both parties at the inception of the contract
 
@@ -35,7 +35,7 @@ Forward is a zero-sum game
 - The $F_{0,T}$ is constructed to make the final payoff equivalent to that of a risk-free zero-coupon bond with an interest rate $r_{0}=5\%$
 - Thereby the fund achieve an equivalent effect of a zero-coupon bond with $r_{0}=5\%$
 
-## The Forward Price 
+## Forward Price
 Why will the buyer agree on the forward price $F_{0,T}$ in the previous example?
 - According to the no arbitrage principle (law of one price), the discount rate to get $F_{0,T}$ has to equal the market interest rate
 
@@ -79,16 +79,95 @@ Two portfolios have the same payoffs at time T,
 
 according to the no arbitrage principle, they must have the same payoffs at time 0
 
-i.e., $F_{0,T}\times e^{-r_{0}\times T}-S_{0}=0 \iff F_{0,T}=S_{0}\times e^{r_{0}\times T}$
+> i.e., $F_{0,T}\times e^{-r_{0}\times T}-S_{0}=0 \iff F_{0,T}=S_{0}\times e^{r_{0}\times T}$
 
+## Forward Price $\neq$ Expected Future Price
+$$F_{0,T}=S_{0}\times e^{r_{0}\times T}$$
+The forward price  **only** use information from the current spot markets and therefore cannot predict future spot price.
 
+The expected log-return of the underlying $\mu_{0}$ is defined as
+$$E_{0}[S_{T}]=S_{0}\times e^{\mu_{0}T}$$
+> Risk Premium: $\mu_{0}-r_{0}$
+- risky underlying $\to$ positive
+
+## Value of Forward Contract
+Consider **shorting** a forward
+
+At time 0, $V=0$
+- it costs nothing to enter a forward
+
+At maturity T, $V=F_{0, T}-S_{T}$
+- the value equals the final payoff
+
+At time $0<t<T$, the value is the present value of the final payoff if we cancel the forward contract now.
+
+> Cancel a forward contract $\iff$ Enter a reverse contract
+
+We **long** a forward contract which also matures at time $T$ and have a forward price $F_{t,T}$ today at time $t$
+$$F_{t,T}=S_{t}\times e^{r(T-t)}$$
+The final payoff is $N_{0}\times(S_{T}-F_{t,T})$. The combined final payoff is
+$$N_{0}\times(F_{0,T}-S_{T})+N_{0}\times(S_{T}-F_{t,T})=N_{0}\times(F_{0,T}-F_{t,T})$$
+Therefore, the value of the short forward contract at time $t$ is
+>$$e^{-r(T-t)}\times N_{0}\times(F_{0,T}-F_{t,T})$$
+or, expressed by the price of the underlying:
+$$N_{0}\times(S_{0}\times e^{rt}-S_{T})$$
+
+and vice versa for long position
+>$$e^{-r(T-t)}\times N_{0}\times(F_{t,T}-F_{0,T})$$
+$$\iff N_{0}\times(S_{T}-S_{0}\times e^{rt})$$
+
+## Forward on Stocks with Known Dividend Yield
+Assume a continuously-compounded dividend yield $q$
+- to have 1 share at time $T$, I need $e^{-q\times T}$ at time 0
+	- Incorporate the effect of dividend in the quantity instead of the price
+		- value = quantity $\times$ price
+
+![[Pasted image 20250924222548.png]]
+
+Again from **no arbitrage principle**
+$$S_{0}\times e^{-q\times T}-F_{0,T}\times e^{-r\times T}=0$$
+i.e.
+$$F_{0,T}=S_{0}\times e^{(r-q)\times T}$$ ^da7c80
+
+# Future Contracts
+Similar to forward contracts except
+- [[L1 - Intro to Derivatives#Exchange-Traded Derivative (ETD)|traded on an exchange]]
+- standardized (with respect to size, maturity, underlying)
+	- reduce liquidity risk
+	- but introduce inefficient mismatch between buyers and sellers
+- P/L are [[L2 - Forward and Futures Contracts#Margin Requirement|marked to market]] (daily settlement)
+
+## Future Prices
+Similar to the [[L2 - Forward and Futures Contracts#Forward Price|forward price]], the future price at time $t$ is represented by $\hat{F}_{t,T}$.
+
+As the future price moves, profits and losses accrue to both counterparty
+
+For ==buyer (long position)==
+$$\text{Daily P\&L}=\text{Contract Size}\times(\hat{F}_{t,T}-\hat{F}_{t-1,T})$$
+and vice versa for sellers
+
+## Margin Requirement
+
+```mermaid
+flowchart LR
+
+Buyers<-->|Daily P/L|Exchange
+Exchange<-->|Daily P/L|Sellers
+
+```
+
+- Both counterparties must set up collateral with the exchange
+- At the close of each day traders pay losses (out of their margin accounts) or receive gains (credited to their margin accounts)
+- If the amount in the trader’s account falls below a [[Trading Securities#Buying on Margin|maintenance margin]], the exchange issues a [[Trading Securities#Buying on Margin|margin call]]
+- The trader must post additional collateral to restore the initial margin if he wants to keep the position open. Otherwise the position is closed by the exchange
+- Therefore, the exchange does not take any risks
 
 # Appendix
 ## Interest Rate
 - Simple interest rate $r_{0}^S$
 	- $r_{0}^S=\frac{1}{T}\left( \frac{FV}{S}-1 \right)$
 	- $FV=S(1+r_{0}^ST)$
-- Continuously-compounded rate ([[Ust_Note/yr2_Fall/FINA3203/L2 - Forward and Futures contracts#Log-Return|log-return]]) $r_{0}$
+- Continuously-compounded rate ([[L2 - Forward and Futures Contracts#Log-Return|log-return]]) $r_{0}$
 	- $r_{0}=\frac{1}{T}\left( \ln \frac{FV}{S_{0}} \right)$
 	- $FV=Se^{r_{0}T}$
 	- $S=FVe^{-r_{0}T}$
