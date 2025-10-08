@@ -9,7 +9,7 @@
 ## Business Portfolios
 collection of businesses and products that make up the company
 ### Strategic Business Units (SBU)
-
+![[Pasted image 20250930163125.png]]
 ### Brand Architecture Consideration
 |            | branded house | house of brands|
 | :--------- | :-----------: | :------------: |
@@ -32,4 +32,12 @@ Hybrid: Confusion
 		  quadrant-4 Dog
 ```
 
+### Product/Market Expansion Grid
+![[Pasted image 20250930163349.png]]
+### Marketing Mix
+![[Pasted image 20250930165335.png]]
+### Marketing Analysis Tool
+![[Pasted image 20250930165423.png]]
 
+## ROI
+Return On Marketing Investment
