@@ -14,19 +14,19 @@ Forward is a zero-sum game
 - only one party profits and the other lose money
 
 ## Synthetic Zero-Coupon Bond
-> [!Case]
+> [!Background]
 > A hedge fund owns 10,000 shares of firm A, each trading at ==$S_{0}=\$100$== now.
 >
 > It wants to clear the entire position in A and replace it with zero-coupon bonds with maturity ==$T=1.8$== years.
 > 
 > The interest rate today is ==$r_{0}=5\%$==
 
-> [!Problem]
+> [!Warning] Problem
 > - large transaction costs
 > - market liquidation issues
 > - maturity mismatch with standardized bonds traded on exchanges
 
-> [!Solution]
+> [!Success] Solution
 > short a forward contract with forward price ==$F_{0,T}=\$109$== at ==$T=1.8$==
 
 ![[Ust_Note/yr2_Fall/FINA3203/attachments/Pasted image 20250915150042.png]]
@@ -109,12 +109,24 @@ The final payoff is $N_{0}\times(S_{T}-F_{t,T})$. The combined final payoff is
 $$N_{0}\times(F_{0,T}-S_{T})+N_{0}\times(S_{T}-F_{t,T})=N_{0}\times(F_{0,T}-F_{t,T})$$
 Therefore, the value of the short forward contract at time $t$ is
 >$$e^{-r(T-t)}\times N_{0}\times(F_{0,T}-F_{t,T})$$
-or, expressed by the price of the underlying:
-$$N_{0}\times(S_{0}\times e^{rt}-S_{T})$$
 
 and vice versa for long position
->$$e^{-r(T-t)}\times N_{0}\times(F_{t,T}-F_{0,T})$$
-$$\iff N_{0}\times(S_{T}-S_{0}\times e^{rt})$$
+$$e^{-r(T-t)}\times N_{0}\times(F_{t,T}-F_{0,T})$$
+---
+Alternatively, replicating the portfolio we have
+
+||t|T|
+|---|---|---|
+|original long position|Value|$S_{T}-F_{0,T}$|
+
+||t|T|
+|---|---|---|
+|new long position|0|$S_{T}-F_{t,T}$|
+|PV of future payoff|$e^{-r(T-t)}(F_{t,T}-F_{0,T})$|$F_{t,T}-F_{0,T}$|
+|Synthetic payoff|0|$S_{T}-F_{0,T}$|
+
+Therefore, the value of the original long position at time $=t$ is 
+$$e^{-r(T-t)}\times N_{0}\times(F_{t,T}-F_{0,T})$$
 
 ## Forward on Stocks with Known Dividend Yield
 Assume a continuously-compounded dividend yield $q$
@@ -158,7 +170,7 @@ Exchange<-->|Daily P/L|Sellers
 
 - Both counterparties must set up collateral with the exchange
 - At the close of each day traders pay losses (out of their margin accounts) or receive gains (credited to their margin accounts)
-- If the amount in the trader’s account falls below a [[Trading Securities#Buying on Margin|maintenance margin]], the exchange issues a [[Trading Securities#Buying on Margin|margin call]]
+- If the amount in the trader’s account falls below a [[L1 - Trading Securities#Buying on Margin|maintenance margin]], the exchange issues a [[L1 - Trading Securities#Buying on Margin|margin call]]
 - The trader must post additional collateral to restore the initial margin if he wants to keep the position open. Otherwise the position is closed by the exchange
 - Therefore, the exchange does not take any risks
 
@@ -172,6 +184,8 @@ Exchange<-->|Daily P/L|Sellers
 	- $FV=Se^{r_{0}T}$
 	- $S=FVe^{-r_{0}T}$
 
+Conversion between simple interest rate and log-return:
+$$1+r_{0}^s=e^{r_{0}T}$$
 ## Log-Return
 [Log-return](https://gregorygundersen.com/blog/2022/02/06/log-returns/) are defined as
 $$z_{t}=\ln(1+r_{t})=\ln\left( \frac{p_{t}}{p_{t-1}} \right)$$

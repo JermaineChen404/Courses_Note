@@ -13,8 +13,8 @@ In general,
 1. identify price factors
 2. summarize as a continuously-compounded rate
 3. Incorporate into price formula
-	- Cost $\to +$
-	- Benefit $\to-$
+	- Cost to carrying the underlying $\to +$
+	- Benefit carrying the underlying $\to-$
 
 ### Storage Cost
 Storage cost can affect commodity forward pricing, serving as a **negative** yield, which is exactly the opposite of a [[L2 - Forward and Futures Contracts#Forward on Stocks with Known Dividend Yield|dividend yield]]

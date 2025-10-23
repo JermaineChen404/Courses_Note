@@ -40,8 +40,38 @@ When the forward rate is $F_{0,T}=S_{0}e^{(r-r*)T}$, there is no arbitrage oppor
 
 ![[Pasted image 20250927021018.png]]
 
+CIP can fail during financial crisis where investors cannot borrow dollars as they want since investors prefer one currency over the others.
+
+In this case, it implies that the preferred currency (normally US dollar) has additional "convenience yield".
+
+Generally, arbitrage can fail due to
+- lack of borrowing capacity
+- funding risk
+- fear of withdrawals
+
 ## Uncovered Interest Rate Parity (UIP)
-When arbitrage fails
+>[!Core Idea]
+>- the difference in interest rates between two countries should be equal to the expected change in their exchange rate over the same period.
+>- In other words, If you earn a higher interest rate in one country, you should expect to lose that extra gain due to your currency depreciating when you convert it back.
+>- It's a "no-arbitrage" condition, meaning it assumes that potential profits from investing in higher-yielding currencies are eliminated by expected currency movements.
+
+Assume $F_{0,T}=E_{0}[S_{T}]$, when CIP holds (for the most of the time as shown in data),
+$$E_{0}[S_{T}]=S_{0}e^{(r-r^*)T}$$
+If $r<r^*$, then $S_{0}>E_{0}[S_{T}]$, i.e., the exchange rate is expected to decrease. It implies that **the lower-interest rate currency is expected to appreciate**
+
+>[!Question] Verification
+> Run regression on historic data $$\ln S_{t+1}-\ln S_{t}=\alpha+\beta(r_{t}-r_{t}^*)T+\epsilon_{t+1}$$ If UIP holds, the estimate of $\beta$ should be equal to 1.
+
+## Currency Carry Trade
+Borrow in low-rate currencies and lend/invest in high-rate currencies.
+- gain from interest rate difference
+- additional gain from appreciation of the low-rate currencies if UIP holds
+
+The standard way to do carry trade is with forwards.
+- long euro against USD by US investors $\iff$ short USD against euro by European investors
+- Long EUR/USD forward  $\iff$ Borrow in US and Invest in European
+
+# Case Study: Chinese Copper Carries
 ```mermaid
 flowchart TD
     subgraph Offshore

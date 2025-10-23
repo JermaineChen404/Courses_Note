@@ -37,14 +37,12 @@
 - $\frac{Y_{t}-Y_{t-1}}{Y_{t-1}}$
 - Recession if at least two consecutive quarters of negative growth
 # Unemployment Rate
-$L$: Labor Force
-$N$: Employment
-$U$: Unemployment: number of people do not have a job **but are looking for one**
+Unemployment: number of people do not have a job **but are looking for one**
 $$
-L=N+U
+\text{Labour force}=\text{Employment}+\text{Unemployment}
 $$
 $u$: Unemployment rate
-$$u=\frac{U}{L}$$
+$$u=\frac{\text{Unemployment}}{\text{Labour Force}}=\frac{\text{Unemployment}}{\text{Employment}+\text{Unemployment}}$$
 $$\text{participation rate}=\frac{\text{labor force}}{\text{population}}$$
 > High unemployment can imply
 - more people are entering labor market
@@ -125,7 +123,13 @@ the rate of growth of real GDP.
 
 
 # Appendix
+## Hedonic Pricing
+Problem: changes in the quality of existing goods
+
+value goods with different characteristics in the market in the given year.
 ## Chain-Weighting
+Problem: changes in the relative price
+
 e.g. real GDP in chained (2005) dollars
 1. **Calculate Growth Between Two Consecutive Years:** To find the real growth rate from 2004 to 2005, economists do the calculation _twice_:
 	- **Using 2004 prices:** Value the 2005 output at 2004 prices and compare it to 2004's output (valued at 2004 prices). This gives one growth rate.
