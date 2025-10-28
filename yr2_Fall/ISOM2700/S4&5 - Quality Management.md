@@ -68,6 +68,10 @@ It tells us the probability that a process will create a defect
  
  ![[Pasted image 20250923183005.png]]
  
+- $C_{p}\geq 1$ for three sigma quality 
+- $C_{p}\geq 2$ for six sigma quality
+- $C_{p}\geq 3$ for nine sigma quality
+ 
 For multiple steps process, the effect will be magnified.
 
 ![[Pasted image 20250923183101.png]]

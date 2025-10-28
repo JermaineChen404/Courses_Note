@@ -20,7 +20,7 @@
 	- Capacity: units of output that can be produced per unit of time
 - Cycle Time
 	- the time between two successive product completions
-	- $\frac{1}{\text{Flow Rate}}$
+	- $=\frac{1}{\text{Flow Rate}}$
 - Work-in-Process Inventory
 	- the number of units staying throughout the process at a given time
 ## Tool: Gantt Chart
@@ -72,6 +72,7 @@ $$\text{Work-in-process Inventory}=\text{Flow Rate}\times \text{Flow Time}$$
 
 ## Inventory Buffer
 ![[Pasted image 20250922231150.png]]
+
 To reduce inventory buffer
 - reduce the demand rate
 - improve the process capacity

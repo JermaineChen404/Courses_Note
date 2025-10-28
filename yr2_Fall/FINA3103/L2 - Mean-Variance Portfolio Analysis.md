@@ -132,11 +132,12 @@ For a given $\rho$, we vary $w$ to plot the lowest $\sigma_{p}$ for given $E(r_{
 
 ![[Pasted image 20251012151147.png]]
 ## 2 Assets Scenario
+
+
 $$
 \begin{align} 
-\sigma_{p}^2&=w_{1}^2\sigma_{1}^2+w_{2}^2\sigma_{2}^2+2w_{1}w_{2}\sigma_{12} \\
-&=w_{1}^2\sigma_{1}^2+w_{2}^2\sigma_{2}^2+2w_{1}w_{2}\rho_{12}\sigma_{1}\sigma_{2} \\
-&=(\sigma_{1}^2+\sigma_{2}^2-2\sigma_{12})w_{1}^2-(2\sigma_{2}^2-2\sigma_{12})w_{1}+\sigma_{2}^2
+\sigma_{c}^2&=w^2\sigma_{1}^2+(1-w)^2\sigma_{2}^2+2w(1-w)\sigma_{12}\\ \\
+&=(\sigma_{1}^2+\sigma_{2}^2-2\sigma_{12})w^2+(2\sigma_{12}-2\sigma_{2}^2)w+\sigma_{2}^2
 \end{align}
 $$
 Therefore, we obtain the minimum variance portfolio when the weight is
@@ -179,3 +180,5 @@ Optimal risky portfolio $P^*$ is unique and all investors should hold only the s
 - All returns are normally distributed (described by only two parameter $E(r)$ and $\sigma$)
 - All assets are tradable
 - No transaction costs
+
+
