@@ -4,9 +4,9 @@
 
 > The ==flow unit== is what is tracked through the process and generally defines the process output of interest
 
-![[Pasted image 20250918153002.png]]
+![[Ust_Note/yr2_Fall/ISOM2700/attachments/Pasted image 20250918153002.png]]
 ## Process Flow Chart
-![[Pasted image 20250918152851.png]]
+![[Ust_Note/yr2_Fall/ISOM2700/attachments/Pasted image 20250918152851.png]]
 
 # Process Measures
 ## Measures of Process Performance
@@ -25,14 +25,14 @@
 	- the number of units staying throughout the process at a given time
 ## Tool: Gantt Chart
 ### Example
-![[Pasted image 20250918154502.png]]
+![[Ust_Note/yr2_Fall/ISOM2700/attachments/Pasted image 20250918154502.png]]
 - Flow time: 10 min
 - Process capacity: $\frac{1}{4}=0.25$ unit per min
 	- worker B takes the longest time
 - cycle time: 4 min
 - average work-in-process inventory: $\frac{10}{4}=2.5$ units
 #### Tighter Arrangement
-![[Pasted image 20250918154928.png]]
+![[Ust_Note/yr2_Fall/ISOM2700/attachments/Pasted image 20250918154928.png]]
 > A worse scheduling with higher work-in-process inventory
 ---
 ==Gantt chart does not work well for complex process==
@@ -71,13 +71,13 @@ $$L=\lambda \times W$$
 $$\text{Work-in-process Inventory}=\text{Flow Rate}\times \text{Flow Time}$$
 
 ## Inventory Buffer
-![[Pasted image 20250922231150.png]]
+![[Ust_Note/yr2_Fall/ISOM2700/attachments/Pasted image 20250922231150.png]]
 
 To reduce inventory buffer
 - reduce the demand rate
 - improve the process capacity
 
-![[Pasted image 20250922231249.png]]
+![[Ust_Note/yr2_Fall/ISOM2700/attachments/Pasted image 20250922231249.png]]
 $$k=\begin{cases}
 \text{Demand}-\text{Process Capacity}\quad (\text{Demand}>\text{Process Capacity})\\
 -\text{Process Capacity}\quad (\text{Demand}<\text{Process Capacity})
