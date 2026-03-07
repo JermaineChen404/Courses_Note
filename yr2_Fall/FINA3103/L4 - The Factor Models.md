@@ -1,3 +1,10 @@
+---
+title: "L4 - The Factor Models"
+course: FINA3103
+type: Lecture
+tags: [fina3103, factor models, capm limitations, size anomaly, value effect]
+---
+
 # The Factor Models
 ## CAPM Limitations
 Recalling [[L3 - Capital Asset Pricing Model (CAPM)|CAPM]],  we assume

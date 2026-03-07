@@ -1,3 +1,10 @@
+---
+title: "Ch4 - Financial Markets"
+course: ECON2123
+type: Lecture
+tags: [econ2123, financial markets, money demand, interest rate, central bank]
+---
+
 # Financial Markets
 Money $=$ Cash (currency) $+$ Checkable deposits
 

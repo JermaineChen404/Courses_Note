@@ -1,6 +1,22 @@
 determine the production capacity to meet uncertain demand
 # Decision Tree Method
 ![[Ust_Note/yr2_Fall/ISOM2700/attachments/Pasted image 20251009145929.png]]
+
+---
+title: S6-9 - Capacity Planning
+course: ISOM2700
+type: Lecture
+tags:
+  - isom2700
+  - capacity_planning
+  - linear_programming
+  - decision_tree
+  - sensitivity_analysis
+---
+# Decision Tree Method
+![[Ust_Note/yr2_Fall/ISOM2700/attachments/Pasted image 20251009145929.png]]
+# Decision Tree Method
+![[Ust_Note/yr2_Fall/ISOM2700/attachments/Pasted image 20251009145929.png]]
 ## Value of Perfect Information
 ![[Ust_Note/yr2_Fall/ISOM2700/attachments/Pasted image 20251009150339.png]]
 ![[Ust_Note/yr2_Fall/ISOM2700/attachments/Pasted image 20251009150349.png]]

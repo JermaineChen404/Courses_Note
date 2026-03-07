@@ -22,3 +22,13 @@ SAAP --> SAAS
 ## Political-Social
 
 ## Culture
+
+---
+title: L4 - Assessing Marketing Environment
+course: MRKT2120
+type: Lecture
+tags:
+  - mrkt2120
+  - marketing_environment
+  - macro_micro
+---

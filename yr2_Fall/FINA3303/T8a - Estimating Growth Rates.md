@@ -1,3 +1,16 @@
+---
+title: T8a - Estimating Growth Rates
+course: FINA3303
+type: Lecture
+tags:
+  - fina3303
+  - growth rate
+  - eps
+  - net income
+  - ebit
+  - roe
+  - retention rate
+---
 # Estimating Growth Rates
 - Historical average growth rates
 - Estimates of sell-side analysts

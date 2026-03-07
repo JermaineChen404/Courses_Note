@@ -1,3 +1,10 @@
+---
+title: "Ch20 - Output, the Interest Rate, and the Exchange Rate"
+course: ECON2123
+type: Lecture
+tags: [econ2123, output, interest rate, exchange rate, is-lm, open economy]
+---
+
 # Output, the Interest Rate, and the Exchange Rate
 ## The IS Relation in Open Economy
 $$Y=C(Y-T)+I(Y,r)+G-\frac{IM(Y,\epsilon)}{\epsilon}+X(Y^{*},\epsilon)$$

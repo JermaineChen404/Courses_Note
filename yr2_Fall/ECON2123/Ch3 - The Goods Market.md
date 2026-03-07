@@ -1,3 +1,10 @@
+---
+title: "Ch3 - The Goods Market"
+course: ECON2123
+type: Lecture
+tags: [econ2123, goods market, gdp, consumption, investment, government spending]
+---
+
 # The Goods Market
 
 ## The Composition of GDP
@@ -223,7 +230,6 @@ $$Y=\frac{1}{1-c_{1}}(c_{0}+\bar{I}+G-c_{1}T)$$
 >	- $c_{0}\downarrow$, $S \uparrow$
 >- As output decline, people's income decline, and thus they can save less
 >	- $c_{0}\downarrow$, $C \downarrow$, $Y \downarrow$, $S \downarrow$
-
 
 
 

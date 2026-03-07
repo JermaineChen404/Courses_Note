@@ -1,3 +1,16 @@
+---
+title: T2 - Capital Budgeting and Valuation
+course: FINA3303
+type: Lecture
+tags:
+  - fina3303
+  - capital budgeting
+  - valuation
+  - wacc
+  - apv
+  - fte
+  - free cash flow
+---
 # Capital Budgeting and Valuation
 1. the WACC method
 	- The weighted average cost of capital method
@@ -51,5 +64,3 @@ $$\sum \frac{\text{CF to Equity}}{(1+R_{e})^{n}}=E=\text{Enterprise Value}-D+\te
 FTE = Dividend + Shares repurchase
 ### Free Cash Flow to Equity (FCFE)
 $$FCFE=\text{EBIT}-\text{Interest}-\text{Tax}+\text{Depre.}-\text{CapEx}-\Delta \text{NWC}+\text{Net borrowing}$$
-
-

@@ -1,3 +1,10 @@
+---
+title: "L11 - The Black-Scholes-Merton Model"
+course: FINA3203
+type: Lecture
+tags: [fina3203, bsm model, black-scholes, option pricing, greeks, delta, gamma, theta, vega]
+---
+
 # The Black-Scholes-Merton Model
 >[!Assumptions]
 >- Financial markets have no frictions

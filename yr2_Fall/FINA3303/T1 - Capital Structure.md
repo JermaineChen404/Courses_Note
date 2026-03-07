@@ -1,3 +1,15 @@
+---
+title: T1 - Capital Structure
+course: FINA3303
+type: Lecture
+tags:
+  - fina3303
+  - capital structure
+  - wacc
+  - leverage
+  - tax shield
+  - modigliani-miller
+---
 # Capital Structure Theory
 - ROE: Return on Earning
 - EPS: Earning per Share
@@ -149,14 +161,3 @@ Investors can create homemade leverages for their portfolio regardless of how a 
 ## Tax cut
 - Lower tax shield $\to$ less debt
 - Stronger ability to repay debt $\to$ more debt
-
-## Assumption
-- $B_{its}=B_{U}$
-	- when D/V is constant
-	- $its=r_{d}\times D_{t}\times T_{c}=r_{d} \times \frac{D}{V}\times V\times T_{c}$
-- 
-- 
-- 
-- 
-- In exam, formula I and II if not specified
-- Positive NPV Projects $\to$ stock price rise

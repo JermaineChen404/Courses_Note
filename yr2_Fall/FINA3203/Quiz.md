@@ -1,3 +1,15 @@
+---
+title: Quiz
+course: FINA3203
+type: Assessment
+tags:
+  - fina3203
+  - quiz
+  - stock
+  - derivative
+  - futures
+  - short_squeeze
+---
 # L1
 1. Is a stock a derivative?
 > No

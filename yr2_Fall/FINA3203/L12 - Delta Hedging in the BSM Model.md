@@ -1,3 +1,10 @@
+---
+title: "L12 - Delta Hedging in the BSM Model"
+course: FINA3203
+type: Lecture
+tags: [fina3203, delta hedging, bsm, gamma, theta, hedging]
+---
+
 Delta hedging is to hedge the first-order risks coming from the moves in the underlying stock price.
 
 $$\Delta\equiv \frac{\partial \text{ Option Price}}{\partial S}$$

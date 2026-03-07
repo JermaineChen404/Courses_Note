@@ -1,3 +1,10 @@
+---
+title: "Ch6 - The Labor Market"
+course: ECON2123
+type: Lecture
+tags: [econ2123, labor market, wage determination, price determination, unemployment]
+---
+
 # The Labor Market
 ## Wage Determination
 >[!note] Bargaining theory

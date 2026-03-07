@@ -1,3 +1,10 @@
+---
+title: "HW1"
+course: FINA3203
+type: Homework
+tags: [fina3203, derivatives, forward price, margin, exchange rate]
+---
+
 # Q2
 ## (1)
 The 6-month forward price is given by

@@ -1,3 +1,14 @@
+---
+title: T6 - Estimating WACC
+course: FINA3303
+type: Lecture
+tags:
+  - fina3303
+  - wacc
+  - cost of debt
+  - ytm
+  - market weights
+---
 # Estimating WACC
 ## Market Weights
 Use market weights to calculate WACC to reflect current importance of each source of financing to the firm.

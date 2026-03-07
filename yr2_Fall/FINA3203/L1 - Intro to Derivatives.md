@@ -1,3 +1,10 @@
+---
+title: "L1 - Intro to Derivatives"
+course: FINA3203
+type: Lecture
+tags: [fina3203, derivatives, hedging, speculation, arbitrage, forwards, futures, options]
+---
+
 ## Definition
 a security or contract whose payoff depends on, or is derived from, the value of an **underlying asset**
 

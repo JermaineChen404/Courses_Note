@@ -37,6 +37,18 @@ $$
 
 ![[Pasted image 20251107185622.png]]
 
+---
+title: S14-16 - Inventory Management
+course: ISOM2700
+type: Lecture
+tags:
+  - isom2700
+  - inventory_management
+  - newsvendor
+  - eoq
+  - safety_stock
+---
+
 The optimal quantity is $n$ such that $\text{Profit}(n\to n+1)=0$
 
 Thus, $n^*$ is given by

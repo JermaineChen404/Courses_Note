@@ -1,3 +1,10 @@
+---
+title: "Ch5 - The IS-LM Model"
+course: ECON2123
+type: Lecture
+tags: [econ2123, is-lm model, is curve, lm curve, fiscal policy, monetary policy]
+---
+
 # The IS-LM Model
 IS-LM: a framework to analyze both markets at the same time to define the **“grand equilibrium”**
 
@@ -200,4 +207,3 @@ Confidence band
 ![[Pasted image 20251014185021.png]]
 
 Instead of fixing the money supply, central banks in reality keep a constant interest rate or allow slight increase in case of increased money demand.
-  

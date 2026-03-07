@@ -1,3 +1,15 @@
+---
+title: T9 - Working Capital Management
+course: FINA3303
+type: Lecture
+tags:
+  - fina3303
+  - working capital
+  - cash conversion cycle
+  - trade credit
+  - current assets
+  - operating cycle
+---
 # Working Capital Management
 Efficiently managing working capital will maximize firm value.
 

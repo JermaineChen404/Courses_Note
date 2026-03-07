@@ -1,3 +1,10 @@
+---
+title: "L3 - Capital Asset Pricing Model (CAPM)"
+course: FINA3103
+type: Lecture
+tags: [fina3103, capm, beta, risk premium, security market line, alpha]
+---
+
 Motivation: to find the expected return of individual stock and profit from the mispricing
 
 # Assumption

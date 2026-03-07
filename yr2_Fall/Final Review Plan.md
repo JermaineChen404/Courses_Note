@@ -1,3 +1,13 @@
+---
+title: Final Review Plan
+course: yr2_Fall
+type: Note
+tags:
+  - exam_schedule
+  - final_exam
+  - review_plan
+---
+
 # FINA 3303
 - Monday 8 December
 - 8:30 - 11:30

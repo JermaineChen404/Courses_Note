@@ -450,9 +450,9 @@ CEO Arkady Volozh的背景我查过。他创立Yandex，把它做成俄罗斯最
 
 ## 接下来让我们进行最关键的环节，图标趋势分析和关键点位！！
 
-![](Screenshot_2025-10-12_at_22.17.12.png)
+![[Screenshot_2025-10-12_at_22.17.12.png]]
 
-![](Screenshot_2025-10-12_at_22.17.32.png)
+![[Screenshot_2025-10-12_at_22.17.32.png]]
 
 ### 看基本数据：
 

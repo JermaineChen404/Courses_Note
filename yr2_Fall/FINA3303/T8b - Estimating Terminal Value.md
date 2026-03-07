@@ -1,3 +1,16 @@
+---
+title: T8b - Estimating Terminal Value
+course: FINA3303
+type: Lecture
+tags:
+  - fina3303
+  - terminal value
+  - stable growth model
+  - reinvestment rate
+  - roe
+  - roc
+  - fcff
+---
 # Estimating Terminal Value
 $$\text{Value of a firm}=\sum_{t=1}^{t=n}\frac{\text{CF}_{t}}{(1+r)^t}+\frac{\text{Terminal Value}_{n}}{(1+r)^n}$$
 

@@ -1,3 +1,15 @@
+---
+title: L7 - Options
+course: FINA3203
+type: Lecture
+tags:
+  - fina3203
+  - options
+  - call
+  - put
+  - payoff
+  - put_call_parity
+---
 # Options
 > [!NOTE] Definition
 > A option gives its holder the right, but not the obligation, to buy or sell a given asset (the underlying) for a pre-specified price (the strike price) at a pre-specified date (the maturity date). The right to buy is a call option, the right to sell is a put option.
@@ -70,4 +82,3 @@ flowchart LR
 6-->4(short stock)
 6-->5(long bond)
 ```
-

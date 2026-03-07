@@ -1,3 +1,16 @@
+---
+title: L3 - Forwards and Futures on Commodities
+course: FINA3203
+type: Lecture
+tags:
+  - fina3203
+  - commodities
+  - forward_curve
+  - contango
+  - backwardation
+  - convenience_yield
+---
+
 ![[Pasted image 20250924233022.png]]
 
 ## Forward Curve

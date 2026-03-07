@@ -1,3 +1,10 @@
+---
+title: "Ch19 - The Goods Market in an Open Economy"
+course: ECON2123
+type: Lecture
+tags: [econ2123, goods market, open economy, imports, exports, equilibrium]
+---
+
 # The Goods Market in an Open Economy
 Demand for domestic goods becomes:
 

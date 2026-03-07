@@ -1,3 +1,10 @@
+---
+title: "Ch1&2 - Overview"
+course: ECON2123
+type: Lecture
+tags: [econ2123, overview, gdp, unemployment, inflation]
+---
+
 # Overview
 ## GDP: The Aggregate Output
 - Production Side:

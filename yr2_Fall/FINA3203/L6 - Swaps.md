@@ -1,3 +1,14 @@
+---
+title: L6 - Swaps
+course: FINA3203
+type: Lecture
+tags:
+  - fina3203
+  - swaps
+  - interest_rate_swap
+  - total_return_swap
+  - volatility_swap
+---
 >[!Definition]
 >A swap is an OTC agreement to exchange two streams of cash flows at pre-specified date or dates $T_{1}<\cdots<T_{m}$ until a terminal date $T$
 

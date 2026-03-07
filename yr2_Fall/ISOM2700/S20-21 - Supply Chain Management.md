@@ -4,6 +4,18 @@
 
 ![[Pasted image 20251213200926.png]]
 
+---
+title: S20-21 - Supply Chain Management
+course: ISOM2700
+type: Lecture
+tags:
+  - isom2700
+  - supply_chain
+  - bullwhip_effect
+  - revenue_sharing
+  - matching
+---
+
 >[!tip] From Local Optimization to Sequential Optimization
 >>[!note] Local Optimization
 >>- Make decision based on its own interest

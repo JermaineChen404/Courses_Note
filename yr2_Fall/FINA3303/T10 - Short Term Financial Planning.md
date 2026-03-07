@@ -1,3 +1,15 @@
+---
+title: T10 - Short Term Financial Planning
+course: FINA3303
+type: Lecture
+tags:
+  - fina3303
+  - financial planning
+  - matching principle
+  - financing policy
+  - ear
+  - working capital
+---
 # Short-Term Financial Planning
 Firms require short-term financing for
 

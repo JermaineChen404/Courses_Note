@@ -1,3 +1,10 @@
+---
+title: "Ch18 - Openness in Goods and Financial Markets"
+course: ECON2123
+type: Lecture
+tags: [econ2123, openness, goods, financial markets, exchange rate, balance of payments]
+---
+
 # Openness in Goods and Financial Markets
 >[!warning] Exports Can Exceed GDP
 >GDP is value added domestically, not gross output. Exports and imports may include exports and imports of intermediate goods which are not included in GDP calculation

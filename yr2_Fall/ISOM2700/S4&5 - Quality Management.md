@@ -30,6 +30,18 @@ Confusion between two types of variations leads to either over adjustment or mis
 
 ![[Ust_Note/yr2_Fall/ISOM2700/attachments/Pasted image 20251031181324.png]]
 
+---
+title: S4&5 - Quality Management
+course: ISOM2700
+type: Lecture
+tags:
+  - isom2700
+  - quality_management
+  - control_chart
+  - six_sigma
+  - process_capability
+---
+
 ```mermaid
 flowchart
 id1(Control Charts) --> id2(Continuous Variable)

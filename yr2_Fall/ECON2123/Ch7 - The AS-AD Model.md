@@ -1,3 +1,10 @@
+---
+title: "Ch7 - The AS-AD Model"
+course: ECON2123
+type: Lecture
+tags: [econ2123, as-ad model, aggregate supply, aggregate demand]
+---
+
 # The AS-AD Model
 ## Aggregate Supply
 Given

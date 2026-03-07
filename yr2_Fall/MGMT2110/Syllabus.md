@@ -1,3 +1,15 @@
+
+---
+title: Syllabus
+course: MGMT2110
+type: Note
+tags:
+  - mgmt2110
+  - syllabus
+  - grading
+  - exam_info
+---
+
 - Mid-term 20%
 	- Nov 10th evening
 	- MC only

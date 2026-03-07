@@ -1,3 +1,10 @@
+---
+title: "L2 - Mean-Variance Portfolio Analysis"
+course: FINA3103
+type: Lecture
+tags: [fina3103, portfolio analysis, mean-variance, sharpe ratio, efficient frontier, optimal allocation]
+---
+ZZZZ
 # Utility
 ## Risk-Return Tradeoff
 Investors are risk averse (ask for risk premium).

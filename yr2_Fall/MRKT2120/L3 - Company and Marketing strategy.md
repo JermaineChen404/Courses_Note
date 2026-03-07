@@ -41,3 +41,13 @@ Hybrid: Confusion
 
 ## ROI
 Return On Marketing Investment
+
+---
+title: L3 - Company and Marketing strategy
+course: MRKT2120
+type: Lecture
+tags:
+  - mrkt2120
+  - company_strategy
+  - brand_architecture
+---

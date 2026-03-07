@@ -80,6 +80,16 @@ work with partners to jointly bring greater value to customers
 ![[Ust_Note/yr2_Fall/MRKT2120/attachments/Pasted image 20250909172606.png]]
 Get rid of barnacles by raising fees or reducing service.
 
+---
+title: L2 - Marketing Process
+course: MRKT2120
+type: Lecture
+tags:
+  - mrkt2120
+  - marketing_process
+  - clv
+---
+
 ## Q&A
 过度广告in app
 research papers

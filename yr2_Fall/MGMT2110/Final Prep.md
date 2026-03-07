@@ -1,4 +1,13 @@
 # Final Prep
+---
+title: Final Prep
+course: MGMT2110
+type: Note
+tags:
+  - mgmt2110
+  - revision
+  - exam_prep
+---
 Slides:
 
 - MO, Ke (Chloe) 

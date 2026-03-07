@@ -1,3 +1,10 @@
+---
+title: "L10 - Multi-step Binomial Tree Models"
+course: FINA3203
+type: Lecture
+tags: [fina3203, binomial tree, dynamic replication, risk-neutral pricing, crr model]
+---
+
 # Multi-step Binomial Tree Models
 ![[Pasted image 20251215234239.png]]
 ## Method I: Dynamic Replication

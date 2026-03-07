@@ -117,3 +117,13 @@ Differences with consumer markets
 	- New Task
 	- Involvement and time commitment from low to high
 - Types of decisions and the decision-making process
+
+---
+title: L5 - Consumer Behavior
+course: MRKT2120
+type: Lecture
+tags:
+  - mrkt2120
+  - consumer_behavior
+  - buyer_decision
+---

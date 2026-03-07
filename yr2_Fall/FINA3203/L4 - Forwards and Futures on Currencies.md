@@ -1,3 +1,16 @@
+---
+title: L4 - Forwards and Futures on Currencies
+course: FINA3203
+type: Lecture
+tags:
+  - fina3203
+  - currencies
+  - exchange_rate
+  - currency_forward
+  - interest_rate_parity
+  - carry_trade
+---
+
 ## Types of Currencies
 - World's dominant currency: USD
 	- large proportion of the reserves of central banks

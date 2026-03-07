@@ -1,3 +1,14 @@
+---
+title: L9 - Binomial Tree Models
+course: FINA3203
+type: Lecture
+tags:
+  - fina3203
+  - binomial_tree
+  - pricing
+  - risk_neutral
+  - hedging
+---
 # Binomial Tree Models
 >[!Note] Pricing
 >

@@ -1,3 +1,16 @@
+---
+title: S2&3 - Process Analysis
+course: ISOM2700
+type: Lecture
+tags:
+  - isom2700
+  - process_analysis
+  - capacity
+  - little_law
+  - bottleneck
+  - gantt_chart
+---
+
 # A Process View
 ## Definition
 > A ==business process== is a network of activities performed by resources that transform inputs into outputs.
@@ -7,6 +20,15 @@
 ![[Ust_Note/yr2_Fall/ISOM2700/attachments/Pasted image 20250918153002.png]]
 ## Process Flow Chart
 ![[Ust_Note/yr2_Fall/ISOM2700/attachments/Pasted image 20250918152851.png]]
+
+---
+---
+---
+---
+
+---
+---
+---
 
 # Process Measures
 ## Measures of Process Performance
@@ -82,6 +104,4 @@ $$k=\begin{cases}
 \text{Demand}-\text{Process Capacity}\quad (\text{Demand}>\text{Process Capacity})\\
 -\text{Process Capacity}\quad (\text{Demand}<\text{Process Capacity})
 \end{cases}$$
-
-
 

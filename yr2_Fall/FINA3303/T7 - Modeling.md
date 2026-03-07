@@ -1,3 +1,15 @@
+---
+title: T7 - Modeling
+course: FINA3303
+type: Lecture
+tags:
+  - fina3303
+  - modeling
+  - financial statements
+  - roe
+  - growth rate
+  - simulation
+---
 # Modeling
 ## Understand the business
 - Annual report
@@ -84,14 +96,3 @@ most relevant due to WACC method
 ROIC
 
 $$\text{Terminal Value}_{n}=\frac{\text{EBIT}_{n+1}(1-t)(1-\text{Reinvestment rate})}{(1-\text{Reinvestment rate})\times\text{ROC}+(\text{WACC}-\text{ROC})}=$$
-
-
-
-
-
-
-
-
-
-
-

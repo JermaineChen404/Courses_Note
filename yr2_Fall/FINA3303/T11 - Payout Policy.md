@@ -1,3 +1,15 @@
+---
+title: T11 - Payout Policy
+course: FINA3303
+type: Lecture
+tags:
+  - fina3303
+  - payout policy
+  - dividends
+  - share repurchase
+  - tax
+  - mm
+---
 # Payout Policy
 ## Uses of Free Cash Flow
 ![[Pasted image 20251103163911.png]]
@@ -120,5 +132,3 @@ The effective tax disadvantage of retaining cash is
 $$T^{*}_{\text{retain}}=1-\frac{(1-T_{c})(1-T_{g})}{1-T_{i}}$$
 
 If $T^{*}_{\text{retain}}>0$, the stock price will be lower if the firm retains cash.
-
-

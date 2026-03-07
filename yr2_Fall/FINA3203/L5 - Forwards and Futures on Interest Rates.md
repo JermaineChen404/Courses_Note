@@ -1,3 +1,16 @@
+---
+title: L5 - Forwards and Futures on Interest Rates
+course: FINA3203
+type: Lecture
+tags:
+  - fina3203
+  - interest_rates
+  - forward_rate
+  - fra
+  - repo
+  - convergence_trade
+---
+
 # Forward Interest Rate
 >[!Forward Rate]
 > At $t_{0}$, what the market thinks of the interest rate from $t_{1}$ to $t_{2}$
@@ -48,8 +61,8 @@ where $r_{t_{1},t_{2}}$ is the interest rate in the future (unknown today).
 
 |Position|Goal|Expectation/Hedge|
 |---|---|---|
-|**Short FRA**|Fix Lending/Investing Rate|**Fall** in interest rates|
-|**Long FRA**|Fix Borrowing Rate|**Rise** in interest rates|
+|**Short FRA**|Fix Lending/Investing Rate|**Fall** in interest rates|
+|**Long FRA**|Fix Borrowing Rate|**Rise** in interest rates|
 
 #### Short FRA
 We want to invest $N_{0}$ from $t_{1}$ to $t_{2}$ at the fixed FRA rate
@@ -131,7 +144,6 @@ Repo/reverse repo allow us to long/short a bond without entry cost
 
 # Case Study: LTCM
 huge leverage on "little risk" arbitrage spread trade.
-
 
 
 

@@ -1,3 +1,15 @@
+---
+title: L2 - What is Organizational Behavior
+course: MGMT2110
+type: Lecture
+tags:
+  - mgmt2110
+  - organizational_behavior
+  - ob_anchors
+  - mars_model
+  - open_system
+---
+
 ## Studying Organizational Behavior
 ### Dependent Variables
 Outcomes that we are interested in

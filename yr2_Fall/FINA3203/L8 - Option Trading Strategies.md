@@ -1,3 +1,17 @@
+---
+title: L8 - Option Trading Strategies
+course: FINA3203
+type: Lecture
+tags:
+  - fina3203
+  - options
+  - strategies
+  - spread
+  - straddle
+  - strangle
+  - butterfly
+  - static_replication
+---
 # Option Trading Strategies
 1️⃣ **Directional / Hedging Strategies**
 
@@ -51,10 +65,10 @@ One can synthesize a forward contract with options
 >	- large contract size, mark-to-market
 >- no payoff at inception
 >	- less flexibility
-
-strike price can deviate from forward price that determined by spot price and carrying costs.
-
-- incur upfront payoff
+>
+>strike price can deviate from forward price that determined by spot price and carrying costs.
+>
+>- incur upfront payoff
 
 ![[Pasted image 20251112003326.png]]
 

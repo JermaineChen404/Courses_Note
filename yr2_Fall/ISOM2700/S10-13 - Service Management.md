@@ -2,6 +2,18 @@ Service management focus on the buffer station in a process (queue).
 
 ![[Ust_Note/yr2_Fall/ISOM2700/attachments/Pasted image 20251031025243.png]]
 
+---
+title: S10-13 - Service Management
+course: ISOM2700
+type: Lecture
+tags:
+  - isom2700
+  - service_management
+  - queuing
+  - mm_s
+  - pooling
+---
+
 
 Given random variable $L_{n}$ in queue, $A_{n}$ of arrivals, and $C_{n}$ of capacity,
 
@@ -156,5 +168,4 @@ $$F(x)=1-e^{-\mu x}$$
 	- inform and even surprise customer with shorter waiting time
 - Solo waiting feels longer
 	- encourage interaction in the waiting environment
-
 

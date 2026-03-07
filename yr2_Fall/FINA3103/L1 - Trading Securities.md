@@ -1,3 +1,10 @@
+---
+title: "L1 - Trading Securities"
+course: FINA3103
+type: Lecture
+tags: [fina3103, trading, margin, short selling, market order, limit order]
+---
+
 Market makers earn the bid-ask spread as compensation for inventory risks.
 - More liquid, less riskier for market makers, less bid-ask spread
 - liquidity $\iff$ spread

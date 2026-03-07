@@ -1,3 +1,10 @@
+---
+title: "HW2"
+course: FINA3203
+type: Homework
+tags: [fina3203, derivatives, duration mismatch, options, hedging, arbitrage]
+---
+
 # Q1
 ## 1
 - Manage a duration mismatch

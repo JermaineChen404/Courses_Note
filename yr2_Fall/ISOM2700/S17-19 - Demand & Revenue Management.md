@@ -168,6 +168,18 @@ i.e.,
 $$p^{*}=\frac{a}{2b}$$
 
 ---
+title: S17-19 - Demand & Revenue Management
+course: ISOM2700
+type: Lecture
+tags:
+  - isom2700
+  - demand_forecasting
+  - revenue_management
+  - price_optimization
+  - tracking_signal
+---
+
+---
 
 Now suppose there are two products with linear demand curves.
 
@@ -190,4 +202,3 @@ $$p_1^\ast = \frac{-2 a_1 c_2 - (c_1 + b_2) a_2}{\Delta}, \qquad
 p_2^\ast = \frac{-2 b_1 a_2 - (c_1 + b_2) a_1}{\Delta}$$
 
 where $\Delta = (c_1 + b_2)^2 - 4 b_1 c_2$
-
