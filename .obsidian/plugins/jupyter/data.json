@@ -1,6 +1,6 @@
 {
-  "pythonExecutable": "python",
-  "pythonExecutablePath": "D:\\Anaconda\\python.exe",
+  "pythonExecutable": "path",
+  "pythonExecutablePath": "C:\\Users\\20232\\OneDrive - HKUST Connect\\Desktop\\uni\\20_Notes\\Note\\.venv\\Scripts\\python.exe",
   "startJupyterAuto": true,
   "jupyterEnvType": "notebook",
   "useSimpleMode": true,

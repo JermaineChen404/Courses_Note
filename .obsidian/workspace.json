@@ -11,10 +11,14 @@
             "id": "e30df2058797a97a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 Home.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "00 Home"
             }
           }
         ]
@@ -196,6 +200,7 @@
   },
   "active": "e30df2058797a97a",
   "lastOpenFiles": [
+    "00 Home.md",
     "Ust_Note/Untitled.md",
     "Ust_Note/README.md",
     "Ust_Note/test.md",
